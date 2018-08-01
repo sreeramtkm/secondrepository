@@ -9,7 +9,7 @@ pipeline {
     }
     post {
         always {
-            echo 'One way or another, I have finished'
+            echo 'One way or another, I have fucking finished'
             deleteDir() /* clean up our workspace */
         }
         success {
