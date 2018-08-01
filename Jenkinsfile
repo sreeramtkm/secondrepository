@@ -22,7 +22,7 @@ pipeline {
             echo 'I failed :('
         }
         changed {
-            echo 'Things were differen befre...'
+            echo 'Things were differen befreeee...'
         }
     }
 }
